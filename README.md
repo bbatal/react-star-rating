@@ -3,7 +3,7 @@
 - technologies used here are: React, Js, Jsx, and styled components
 
 ## Screenshot
-[Screenshot]
+![ScreenShot](/images/stars.png)
 
 ## Reflection
 - Learned more about events in React and how to use state in an interesting way to track a variables value (in this case, if the img is clicked on/or hovered)
@@ -35,5 +35,5 @@ Your app is ready to be deployed!
 
 See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-![ScreenShot](/images/stars.png)
+
 
